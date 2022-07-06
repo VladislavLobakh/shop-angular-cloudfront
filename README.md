@@ -2,9 +2,10 @@
 
 Angular version: ~12.
 
-Repo maintainers:
+## Project URLs:
 
-- [Sergey Gultyayev](https://github.com/gultyaev)
+CloudFront: https://d26lhhwqmzt09u.cloudfront.net/
+S3: http://water-shop.s3-website-eu-west-1.amazonaws.com/
 
 ## The purpose
 
